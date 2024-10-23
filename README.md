@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sourangshu Kundu and I'm a Computer Science and Engineering student @MCKV Institute of Engineering, from India.</p>
+<p align="left">I am Sourangshu Kundu, a 3rd year Computer Science and Engineering student @MCKV Institute of Engineering, from India.</p>
 
 ###
 
