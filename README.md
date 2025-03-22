@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>👀 I’m interested in DSA, Web Development and AIML.<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goals: Software Developer.<br>😄 Pronouns: He / Him<br>📫 How to reach me:<br>Gmail: kundusourangshu@gmail.com<br>Linkedin: https://www.linkedin.com/in/sourangshu-kundu712</p>
+<p align="left">✨ Creating bugs since 2022<br>👀 I’m interested in DSA, Web Development and AIML.<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goals: Software Developer.<br>😄 Pronouns: He / Him<br>📫 How to reach me:<br>📧 Gmail: kundusourangshu@gmail.com<br>👨🏻‍💻 Linkedin: https://www.linkedin.com/in/sourangshu-kundu712</p>
 
 ###
 
@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -37,20 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SourangshuKundu723/count.svg?"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
