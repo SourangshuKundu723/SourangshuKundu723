@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Sourangshu Kundu, a 3rd year Computer Science and Engineering student @MCKV Institute of Engineering, from India.</p>
+<p align="left">My name is Sourangshu Kundu and I'm a Computer Science and Engineering student @MCKV Institute of Engineering, from India.</p>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
