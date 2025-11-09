@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Sourangshu Kundu and I'm a Computer Science and Engineering student at MCKV Institute of Engineering, from India.</p>
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=28&duration=1500&pause=600&color=FF6F00&vCenter=true&width=900&lines=I+am+Sourangshu+Kundu+👨‍💻;A+passoniate+Full+stack+developer+from+India+🌟" /></p>
+
 
 ###
 
