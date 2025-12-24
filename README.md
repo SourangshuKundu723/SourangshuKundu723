@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>👀 I’m interested in DSA, Web Development and AIML.<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goals: Software Developer.<br>😄 Pronouns: He / Him<br>📫 How to reach me:<br>📧 Gmail: kundusourangshu@gmail.com<br>👨🏻‍💻 Linkedin: https://www.linkedin.com/in/sourangshu-kundu712</p>
+<p align="left">✨ Creating bugs since 2022<br>👀 I’m interested in DSA, Web Development and AIML.<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goal: Software Developer.<br>😄 Pronouns: He / Him<br>📫 How to reach me:<br>📧 Gmail: kundusourangshu@gmail.com<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" style="margin-left: 2px;" alt="linkedin logo"  /> Linkedin: https://www.linkedin.com/in/sourangshu-kundu712</p>
 
 ###
 
@@ -34,7 +35,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
@@ -48,3 +55,4 @@
 </div>
 
 ###
+
