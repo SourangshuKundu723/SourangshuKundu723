@@ -2,8 +2,7 @@
 
 ###
 
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=28&duration=1500&pause=600&color=FF6F00&vCenter=true&width=900&lines=I+am+Sourangshu+Kundu+👨‍💻;A+passoniate+Full+stack+developer+from+India+🌟" /></p>
-
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=28&duration=1800&pause=800&color=FF6F00&vCenter=true&width=900&lines=I+am+Sourangshu+Kundu+👨‍💻;A+passoniate+Full+stack+developer+from+India+🌟" /></p>
 
 ###
 
@@ -11,8 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>👀 I’m interested in DSA, Web Development and AIML.<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goal: Software Developer.<br>😄 Pronouns: He / Him<br>📫 How to reach me:<br>📧 Gmail: kundusourangshu@gmail.com<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" style="margin-left: 2px;" alt="linkedin logo"  /> Linkedin: https://www.linkedin.com/in/sourangshu-kundu712</p>
+<p align="left">✨ Creating bugs since 2022<br>👀 I’m interested in DSA, Web Development and AIML.<br>📚 I'm currently learning Backend Development.<br>🎯 Goal: Software Developer.<br>😄 Pronouns: He / Him<br>📫 How to reach me:<br>📧 Gmail: kundusourangshu@gmail.com<br>
 
 ###
 
@@ -55,4 +53,24 @@
 </div>
 
 ###
+
+<h2 align="left">Find Me Online</h2>
+
+###
+
+<p align="left" style="display: flex; gap: 1.5rem;">
+<a href="https://github.com/SourangshuKundu723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SourangshuKundu723" height="30" width="40" hspace="8"/></a>
+<a href="https://linkedin.com/in/sourangshu-kundu712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourangshu-kundu712" height="30" width="40" hspace="8"/></a>
+<a href="https://hackerrank.com/kundusourangshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kundusourangshu" height="30" width="40" hspace="8"/></a>
+<a href="https://leetcode.com/u21Bd2sGYL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u21Bd2sGYL" height="30" width="40" hspace="8"/></a>
+<a href="https://auth.geeksforgeeks.org/user/kundusountwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kundusountwo" height="30" width="40" hspace="8"/></a>
+</p>
+
+###
+
+<br>
+
+<div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=28&duration=1800&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Have+a+good+day." style="display: block; margin: auto;"/>
+</div>
 
