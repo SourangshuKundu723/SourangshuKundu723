@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Find Me Online</h2>
+<h2 align="left">Connect & Code With Me</h2>
 
 ###
 
